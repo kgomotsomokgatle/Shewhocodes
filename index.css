@@ -1,0 +1,11 @@
+.heading{ 
+    color:rgb(65, 14, 42);
+.mystyle{
+    font-size: 70px;
+    padding: 10px;
+}
+
+.myimagestyle{
+background-size: cover;
+background-image: url("backg.jpg");
+}
